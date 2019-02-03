@@ -23,7 +23,7 @@ We divided our solution into three parts :
    1. People from outside the country always have trouble finding the right mode of transport after they land here.
    2. Created a single point of contact app which includes all local and online means of transport.
    3. It also has a recommendation system which would recommend the right mode of transport to the user based on traffic             during the time of the year 
-3. Financial Statistics
+3. Financial Statistics and profit margins
 ## Tools Used:
 Twitter API - to scrape tweets to gain insights on real time public perception about the airport
 
