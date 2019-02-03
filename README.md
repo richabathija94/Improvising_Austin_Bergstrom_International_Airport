@@ -3,7 +3,8 @@
 ### This project was created as a part of a Hackathon Challenge.
 #### Total Team Members : 4
 #### Time Alloted : 6 hours 
-This is one of my favourite projects as we could create a very viable and holistic solution in just 6 hours.
+#### Overall place : 1st, Winner
+This is one of my favourite projects as we created a very viable and holistic solution in just 6 hours.
 
 ## Use Case: ##
 Austin Bergstrom International Airport is planning to extended with 12 new terminals. As consultants how would you come up with and solve various problems associated with this new plan.
@@ -23,5 +24,9 @@ We divided our solution into three parts :
    2. Created a single point of contact app which includes all local and online means of transport.
    3. It also has a recommendation system which would recommend the right mode of transport to the user based on traffic             during the time of the year 
 3. Financial Statistics
+## Tools Used:
+Twitter API - to scrape tweets to gain insights on real time public perception about the airport
+React Native - to build the app
+
 
 Please do check out the powerpoint slides to get better insights.
