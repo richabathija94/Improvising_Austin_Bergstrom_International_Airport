@@ -26,6 +26,7 @@ We divided our solution into three parts :
 3. Financial Statistics
 ## Tools Used:
 Twitter API - to scrape tweets to gain insights on real time public perception about the airport
+
 React Native - to build the app
 
 Please do check out the powerpoint slides to get better insights.
