@@ -15,13 +15,13 @@ Austin Bergstrom International Airport is planning to extended with 12 new termi
 ## Solution:
 We divided our solution into three parts :
 1. Inside Airport Experience:
-  1. As Austin Bergstrom is an international airport, it should cater to people from all around the world
-  2. Every person has a different threshold to tolerate temperature depending on the place where he/she is from.
-  3. So we created a customised waiting lounge which would cater to individual body temperatures and lighting
+   1. As Austin Bergstrom is an international airport, it should cater to people from all around the world
+   2. Every person has a different threshold to tolerate temperature depending on the place where he/she is from.
+   3. So we created a customised waiting lounge which would cater to individual body temperatures and lighting
 2. Outside Airport Experience:
-  1. People from outside the country always have trouble finding the right mode of transport after they land here.
-  2. Created a single point of contact app which includes all local and online means of transport.
-  3. It also has a recommendation system which would recommend the right mode of transport to the user based on traffic during      the time of the year 
+   1. People from outside the country always have trouble finding the right mode of transport after they land here.
+   2. Created a single point of contact app which includes all local and online means of transport.
+   3. It also has a recommendation system which would recommend the right mode of transport to the user based on traffic             during the time of the year 
 3. Financial Statistics
 
 Please do check out the powerpoint slides to get better insights.
