@@ -7,7 +7,7 @@
 This is one of my favourite projects as we created a very viable and holistic solution in just 6 hours.
 
 ## Use Case: ##
-Austin Bergstrom International Airport is planning to extended with 12 new terminals. As consultants how would you come up with and solve various problems associated with this new plan.
+Austin Bergstrom International Airport is planning to extend with 12 new terminals. As consultants how would you come up with and solve various problems associated with this new plan.
 ## Figuring out the problems associated: 
 1. The first 45 mins were spent figuring out what probems would erupt as a result of the massive extension of the airport        terminals.
 2. Due to so many new terminals being built there would occur traffic congestion would be one of the biggest problems. 
